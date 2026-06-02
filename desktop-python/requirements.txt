@@ -1,0 +1,5 @@
+# No external dependencies needed for tkinter version
+# tkinter comes built-in with Python
+
+# Optional: For more modern UI with PyQt5
+# PyQt5>=5.15.0
